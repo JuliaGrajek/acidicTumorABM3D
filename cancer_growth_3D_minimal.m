@@ -64,16 +64,6 @@ for i=1:numExp
     [sysOut, lastFrame, summary, imWin, masterID] = ...
         runSystem(sysTempl,cnst,expname,saveImage,saveVideo, sysTempl.experiment_id, r);
     
-    ImNUM=[];
-    minpH=[];
-    meanpH=[];
-    TuNUM=[];
-    StroFrac=[];
-    TilsVicinity=[];
-    PDL=[];
-    Necro=[];
-    IMexhFrac=[];
-    IMquFrac=[];
     
 end
 
