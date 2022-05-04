@@ -22,8 +22,8 @@ Please cite these papers if you re-use the code.
 The model engine is implemented in C++. Via MEX, this can be used by the high-level Matlab functions. We provide a compiled version that can be used on a Windows machine (Windows 10). If you use another operating system, you can compile the code with the scripts provided in ./SIMengine. This requires SuiteSparse which is available at https://github.com/jlblancoc/suitesparse-metis-for-windows/
 Furthermore, compilation of the code requires Eigen which is available here: http://eigen.tuxfamily.org/
 
-To start the tumor growth simulation, run the file cancer_growth_3D_minimal.m. In the current state, this will start a simulation of the growth of a spherical CAIX expressing tumor with a radius of 30 cells, placed in the center of the domain. The resulting simulation will look as follows:
-![Example simulation](/output/Experiment_minimal_3D_1/lastState_1.png "3D visualization")
+To start the tumor growth simulation, run the file cancer_growth_3D_minimal.m. In the current state, this will start a simulation of the growth of a spherical CAIX expressing tumor with a radius of 30 cells, placed in the center of the domain:
+![Example simulation](runexample.PNG "Example Simulation")
 If you wish to start the simulation from one tumor cell placed in the center of the domain or to add pharmacokinetics to the simulation, you may change the parameter expetiment_id in the cancer_growth_3D_minimal.m file. 
 
 ## Licenses
