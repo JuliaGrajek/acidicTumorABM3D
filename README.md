@@ -7,7 +7,7 @@ The model takes into account tumor cell metabolism and the resulting acidificati
 
 ![3D visualization](preview.png "3D visualization")
 
-The code will be explained in detail in a scientific publication. It is an extension and modification of a model presented in a different github repository:
+It is an extension and modification of a model presented in a different github repository:
 https://github.com/jnkather/immunoABM3D/tree/v0.1,
 which had been described in a previous publication:
 
