@@ -7,6 +7,10 @@ The model takes into account tumor cell metabolism and the resulting acidificati
 
 ![3D visualization](preview.png "3D visualization")
 
+The model and its application to study the enzyme CAIX as a driver of immunotherapy resistance and potential combination therapy target has been presented in the following publication:
+
+Grajek Julia, Kather Jakob Nikolas and Poleszczuk Jan 2023An in silico model to study the impact of carbonic anhydrase IX expression on tumour growth and anti-PD-1 therapyJ. R. Soc. Interface.202022065420220654, http://doi.org/10.1098/rsif.2022.0654.
+
 It is an extension and modification of a model presented in a different github repository:
 https://github.com/jnkather/immunoABM3D/tree/v0.1,
 which had been described in a previous publication:
